@@ -1,0 +1,15 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: CAN_24bit_airspeed.PcbDoc   8/02/2016  5:56:40 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Component Side to Solder Side
+ASCII RoundHoles File : CAN_24bit_airspeed.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.2mm (7.874mil)         Round          57               134.53 mm (5.30 Inch)
+T2        0.762mm (30mil)          Round          5                21.32 mm (0.84 Inch)
+---------------------------------------------------------------------------
+Totals                                            62               155.85 mm (6.14 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

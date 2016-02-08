@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\CAN_24bit_airspeed.PcbDoc
+RuleKind=ShortCircuit|RuleName=PCB_RESIST|Scope=Board|Allowed=1
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=ShortCircuit|RuleName=shunt|Scope=Board|Allowed=1

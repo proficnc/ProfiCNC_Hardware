@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [CAN_24bit_airspeed.PrjPcb]
+   Generated File[CAN_24bit_airspeed.TXT]
+   Generated File[CAN_24bit_airspeed.LDP]
+   Generated File[CAN_24bit_airspeed.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 5:56:40 PM On 8/02/2016

@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=CAN1 Old DesignItemId=CLICKMATE_1.25_4 New DesignItemId=BM04B-GHS-TBT
+Change Component DesignItemId : Designator=CAN2 Old DesignItemId=CLICKMATE_1.25_4 New DesignItemId=BM04B-GHS-TBT
+Change Component Footprint: Designator=CAN1 Old Footprint=CLICKMATE_V4 New Footprint=BM04-GHS-TBT
+Change Component Footprint: Designator=CAN2 Old Footprint=CLICKMATE_V4 New Footprint=BM04-GHS-TBT
+Change Component Comment : Designator=CAN1 Old Comment=CLICKMATE_1.25_4 New Comment=BM04B-GHS-TBT
+Change Component Comment : Designator=CAN2 Old Comment=CLICKMATE_1.25_4 New Comment=BM04B-GHS-TBT
