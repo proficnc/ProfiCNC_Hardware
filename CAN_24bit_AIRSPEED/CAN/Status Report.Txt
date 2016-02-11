@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 1:16:54 PM On 11/02/2016
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [CAN] of Project [CAN_24bit_airspeed.PrjPcb]
+   Generated File[Bill of Materials-CAN_24bit_airspeed(CAN).xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 1:17:18 PM On 11/02/2016

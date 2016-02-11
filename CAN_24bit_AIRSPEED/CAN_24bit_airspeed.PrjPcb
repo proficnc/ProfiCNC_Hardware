@@ -29,16 +29,16 @@ PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
-OutputPath=
+OutputPath=Project Outputs for CAN_24bit_airspeed
 
 [Document1]
-DocumentPath=CAN_24bit_airspeed.PcbDoc
+DocumentPath=CAN_24bit_airspeed.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -48,13 +48,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document2]
-DocumentPath=CAN_24bit_airspeed.SchDoc
+DocumentPath=CAN_24bit_airspeed.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=0
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -80,7 +80,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document4]
-DocumentPath=CAMtastic1.Cam
+DocumentPath=CAMtastic3.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -96,7 +96,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document5]
-DocumentPath=CAMtastic2.Cam
+DocumentPath=CAMtastic1.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -115,7 +115,7 @@ GenerateClassCluster=0
 Description=CAN
 AllowFabrication=0
 ParameterCount=0
-VariationCount=7
+VariationCount=9
 Variation1=Designator=*|UniqueId=\EJUPWESJ|Kind=1|AlternatePart= 
 Variation2=Designator=J1|UniqueId=\FIGKDMDM|Kind=1|AlternatePart= 
 Variation3=Designator=J6|UniqueId=\DRDETXDC|Kind=1|AlternatePart= 
@@ -123,16 +123,18 @@ Variation4=Designator=J7|UniqueId=\EUFISIAT|Kind=1|AlternatePart=
 Variation5=Designator=R2|UniqueId=\SVCBOLDF|Kind=1|AlternatePart= 
 Variation6=Designator=R8|UniqueId=\SBQHHKFH|Kind=1|AlternatePart= 
 Variation7=Designator=R4|UniqueId=\MIOVIVVR|Kind=1|AlternatePart= 
+Variation8=Designator=?|UniqueId=\FCFYJAVP|Kind=1|AlternatePart= 
+Variation9=Designator=R3|UniqueId=\TKRLDWGN|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [ProjectVariant2]
 Description=I2C
 AllowFabrication=0
 ParameterCount=0
-VariationCount=19
+VariationCount=20
 Variation1=Designator=*|UniqueId=\EJUPWESJ|Kind=1|AlternatePart= 
-Variation2=Designator=CAN1|UniqueId=\LPJJJCDE|Kind=1|AlternatePart= 
-Variation3=Designator=CAN2|UniqueId=\HRJUOOXO|Kind=1|AlternatePart= 
+Variation2=Designator=CAN1|UniqueId=\HDCVNCOR|Kind=1|AlternatePart= 
+Variation3=Designator=CAN2|UniqueId=\IROOYXQJ|Kind=1|AlternatePart= 
 Variation4=Designator=J6|UniqueId=\DRDETXDC|Kind=1|AlternatePart= 
 Variation5=Designator=J7|UniqueId=\EUFISIAT|Kind=1|AlternatePart= 
 Variation6=Designator=R6|UniqueId=\CQMLQFKH|Kind=1|AlternatePart= 
@@ -149,126 +151,159 @@ Variation16=Designator=C15|UniqueId=\CEEBTPCO|Kind=1|AlternatePart=
 Variation17=Designator=C13|UniqueId=\RXDOKWWK|Kind=1|AlternatePart= 
 Variation18=Designator=C12|UniqueId=\HFSVNXQP|Kind=1|AlternatePart= 
 Variation19=Designator=B2|UniqueId=\RXVUTNAN|Kind=1|AlternatePart= 
+Variation20=Designator=?|UniqueId=\FCFYJAVP|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for CAN_24bit_airspeed\CAN_24bit_airspeed.DRR
+DocumentPath=.\CAN\BOM\Bill of Materials-CAN_24bit_airspeed(CAN).xls
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for CAN_24bit_airspeed\CAN_24bit_airspeed.EXTREP
+DocumentPath=.\I2C\BOM\Bill of Materials-CAN_24bit_airspeed(I2C).xls
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for CAN_24bit_airspeed\CAN_24bit_airspeed.G1
+DocumentPath=Project Outputs for CAN_24bit_airspeed\CAN_24bit_airspeed.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for CAN_24bit_airspeed\CAN_24bit_airspeed.G2
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for CAN_24bit_airspeed\CAN_24bit_airspeed.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for CAN_24bit_airspeed\CAN_24bit_airspeed.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for CAN_24bit_airspeed\CAN_24bit_airspeed.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for CAN_24bit_airspeed\CAN_24bit_airspeed.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for CAN_24bit_airspeed\CAN_24bit_airspeed.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for CAN_24bit_airspeed\CAN_24bit_airspeed.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for CAN_24bit_airspeed\CAN_24bit_airspeed.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for CAN_24bit_airspeed\CAN_24bit_airspeed.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for CAN_24bit_airspeed\CAN_24bit_airspeed.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for CAN_24bit_airspeed\CAN_24bit_airspeed.GM3
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for CAN_24bit_airspeed\CAN_24bit_airspeed.GM4
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for CAN_24bit_airspeed\CAN_24bit_airspeed.GM5
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for CAN_24bit_airspeed\CAN_24bit_airspeed.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for CAN_24bit_airspeed\CAN_24bit_airspeed.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for CAN_24bit_airspeed\CAN_24bit_airspeed.GM16
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for CAN_24bit_airspeed\CAN_24bit_airspeed.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for CAN_24bit_airspeed\CAN_24bit_airspeed.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for CAN_24bit_airspeed\CAN_24bit_airspeed.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for CAN_24bit_airspeed\CAN_24bit_airspeed.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for CAN_24bit_airspeed\CAN_24bit_airspeed.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for CAN_24bit_airspeed\CAN_24bit_airspeed.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument26]
 DocumentPath=Project Outputs for CAN_24bit_airspeed\CAN_24bit_airspeed.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument27]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for CAN_24bit_airspeed\CAN_24bit_airspeed.REP
 DItemRevisionGUID=
 
-[GeneratedDocument28]
-DocumentPath=Project Outputs for CAN_24bit_airspeed\CAN_24bit_airspeed.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument29]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for CAN_24bit_airspeed\CAN_24bit_airspeed.TXT
 DItemRevisionGUID=
 
+[GeneratedDocument7]
+DocumentPath=Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\comp_+_bot\components
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\bottom\features
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\bottomoverlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\bottompaste\features
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\bottomsolder\features
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\keepout\features
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\mechanical1\features
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\mechanical2\features
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\mechanical3\features
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\mechanical4\features
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\mechanical5\features
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\mechanical13\features
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\mechanical14\features
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\mechanical15\features
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\mechanical16\features
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\mechanical34\features
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\mid1\features
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\mid2\features
+DItemRevisionGUID=
+
 [GeneratedDocument30]
-DocumentPath=Project Outputs for CAN_24bit_airspeed\Design Rule Check - CAN_24bit_airspeed.html
+DocumentPath=Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\top\features
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\topoverlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\toppaste\features
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\topsolder\features
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for CAN_24bit_airspeed\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
 [Configuration1]
@@ -282,7 +317,7 @@ GenerateBOM=1
 OutputJobsCount=0
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for CAN_24bit_airspeed
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -613,6 +648,8 @@ OutputName6=ODB++ Files
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
+Configuration6_Name1=OutputConfigurationParameter1
+Configuration6_Item1=AddToAllPlots_Mechanical 1=False|AddToAllPlots_Mechanical 10=False|AddToAllPlots_Mechanical 11=False|AddToAllPlots_Mechanical 12=False|AddToAllPlots_Mechanical 13=False|AddToAllPlots_Mechanical 14=False|AddToAllPlots_Mechanical 15=False|AddToAllPlots_Mechanical 16=False|AddToAllPlots_Mechanical 2=False|AddToAllPlots_Mechanical 3=False|AddToAllPlots_Mechanical 4=False|AddToAllPlots_Mechanical 5=False|AddToAllPlots_Mechanical 6=False|AddToAllPlots_Mechanical 7=False|AddToAllPlots_Mechanical 8=False|AddToAllPlots_Mechanical 9=False|ExportPositivePlaneLayers=False|GenerateDRCRulesFile=False|IncludeUnconnectedMidLayerPads=False|ObjsInsideBoardOutlineOnly=False|ODBProfileLayer=-1000|Plot_V7_1=True|Plot_V7_1_name=Mechanical Layer 34|PlotBottomLayerPlot=True|PlotBottomOverlayPlot=True|PlotBottomPastePlot=True|PlotBottomSolderPlot=True|PlotInternalPlane10Plot=False|PlotInternalPlane11Plot=False|PlotInternalPlane12Plot=False|PlotInternalPlane13Plot=False|PlotInternalPlane14Plot=False|PlotInternalPlane15Plot=False|PlotInternalPlane16Plot=False|PlotInternalPlane1Plot=False|PlotInternalPlane2Plot=False|PlotInternalPlane3Plot=False|PlotInternalPlane4Plot=False|PlotInternalPlane5Plot=False|PlotInternalPlane6Plot=False|PlotInternalPlane7Plot=False|PlotInternalPlane8Plot=False|PlotInternalPlane9Plot=False|PlotKeepOutLayerPlot=True|PlotMechanical10Plot=False|PlotMechanical11Plot=False|PlotMechanical12Plot=False|PlotMechanical13Plot=True|PlotMechanical14Plot=True|PlotMechanical15Plot=True|PlotMechanical16Plot=True|PlotMechanical1Plot=True|PlotMechanical2Plot=True|PlotMechanical3Plot=True|PlotMechanical4Plot=True|PlotMechanical5Plot=True|PlotMechanical6Plot=False|PlotMechanical7Plot=False|PlotMechanical8Plot=False|PlotMechanical9Plot=False|PlotMidLayer10Plot=False|PlotMidLayer11Plot=False|PlotMidLayer12Plot=False|PlotMidLayer13Plot=False|PlotMidLayer14Plot=False|PlotMidLayer15Plot=False|PlotMidLayer16Plot=False|PlotMidLayer17Plot=False|PlotMidLayer18Plot=False|PlotMidLayer19Plot=False|PlotMidLayer1Plot=True|PlotMidLayer20Plot=False|PlotMidLayer21Plot=False|PlotMidLayer22Plot=False|PlotMidLayer23Plot=False|PlotMidLayer24Plot=False|PlotMidLayer25Plot=False|PlotMidLayer26Plot=False|PlotMidLayer27Plot=False|PlotMidLayer28Plot=False|PlotMidLayer29Plot=False|PlotMidLayer2Plot=True|PlotMidLayer30Plot=False|PlotMidLayer3Plot=False|PlotMidLayer4Plot=False|PlotMidLayer5Plot=False|PlotMidLayer6Plot=False|PlotMidLayer7Plot=False|PlotMidLayer8Plot=False|PlotMidLayer9Plot=False|PlotTopLayerPlot=True|PlotTopOverlayPlot=True|PlotTopPastePlot=True|PlotTopSolderPlot=True|Record=ODBView
 OutputType7=Plane
 OutputName7=Power-Plane Prints
 OutputDocumentPath7=
@@ -630,7 +667,7 @@ OutputDocumentPath9=
 OutputVariantName9=[No Variations]
 OutputDefault9=0
 Configuration9_Name1=OutputConfigurationParameter1
-Configuration9_Item1=AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16777218~1,16777219~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16908290~1,16908291~1,16908292~1,16908293~1,16908301~1,16908303~1,16908304~1,16973837~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=True|PlotUsedDrillGuideLayerPairs=True|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False
+Configuration9_Item1=AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=593700787|FilmYSize=553700787|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16777218~1,16777219~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16908290~1,16908291~1,16908292~1,16908293~1,16908301~1,16908303~1,16908304~1,16973837~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=True|PlotUsedDrillGuideLayerPairs=True|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False
 
 [OutputGroup6]
 Name=Report Outputs

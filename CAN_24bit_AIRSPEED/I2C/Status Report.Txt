@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 1:25:43 PM On 11/02/2016
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [I2C] of Project [CAN_24bit_airspeed.PrjPcb]
+   Generated File[Bill of Materials-CAN_24bit_airspeed(I2C).xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 1:26:01 PM On 11/02/2016
