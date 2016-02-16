@@ -1,0 +1,24 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Accessory_Breakout_X1.PrjPcb]
+   Generated File[Accessory_Breakout_X1.GTL]
+   Generated File[Accessory_Breakout_X1.GBL]
+   Generated File[Accessory_Breakout_X1.GTO]
+   Generated File[Accessory_Breakout_X1.GTP]
+   Generated File[Accessory_Breakout_X1.GTS]
+   Generated File[Accessory_Breakout_X1.GBS]
+   Generated File[Accessory_Breakout_X1.GBP]
+   Generated File[Accessory_Breakout_X1.GBO]
+   Generated File[Accessory_Breakout_X1.GM1]
+   Generated File[Accessory_Breakout_X1.GM16]
+   Generated File[Accessory_Breakout_X1.GD1]
+   Generated File[Accessory_Breakout_X1.GG1]
+   Generated File[Accessory_Breakout_X1.RUL]
+   Generated File[Accessory_Breakout_X1.EXTREP]
+   Generated File[Accessory_Breakout_X1.REP]
+
+
+Files Generated   : 15
+Documents Printed : 0
+
+Finished Output Generation At 2:10:50 PM On 16/02/2016

@@ -1,112 +1,474 @@
 *************************************************************
-FileName = CAN_24bit_airspeed.PcbDoc
-ODB++ directory structure
+FileName = CAN_24bit_airspeed.GBR
+AutoAperture = True
 *************************************************************
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\matrix\matrix
+Generating : Component Side
+      File : CAN_24bit_airspeed.GTL
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\profile
+    Adding Layer      : Component Side
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\stephdr
+    Adding Layer      : Multi-Layer
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\attrlist
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\topoverlay\features
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+*************************************************************
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\topoverlay\attrlist
+*************************************************************
+Generating : Signal Layer Top
+      File : CAN_24bit_airspeed.G1
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\toppaste\features
+    Adding Layer      : Signal Layer Top
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\toppaste\attrlist
+    Adding Layer      : Multi-Layer
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\topsolder\features
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\topsolder\attrlist
+Used DCodes :
+    D33
+*************************************************************
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\top\features
+*************************************************************
+Generating : Signal Layer Bottom
+      File : CAN_24bit_airspeed.G2
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\top\attrlist
+    Adding Layer      : Signal Layer Bottom
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\mid1\features
+    Adding Layer      : Multi-Layer
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\mid1\attrlist
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\mid2\features
+Used DCodes :
+    D29
+    D30
+    D32
+    D33
+*************************************************************
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\mid2\attrlist
+*************************************************************
+Generating : Solder Side
+      File : CAN_24bit_airspeed.GBL
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\bottom\features
+    Adding Layer      : Solder Side
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\bottom\attrlist
+    Adding Layer      : Multi-Layer
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\bottomsolder\features
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\bottomsolder\attrlist
+Used DCodes :
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+*************************************************************
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\bottompaste\features
+*************************************************************
+Generating : Bottom Pad Master
+      File : CAN_24bit_airspeed.GPB
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\bottompaste\attrlist
+    Adding Layer      : Solder Side
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\bottomoverlay\features
+    Adding Layer      : Multi-Layer
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\bottomoverlay\attrlist
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\drill\features
+Used DCodes :
+    D32
+    D34
+    D35
+    D36
+    D37
+    D38
+*************************************************************
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\drill\attrlist
+*************************************************************
+Generating : Top Pad Master
+      File : CAN_24bit_airspeed.GPT
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\drill\tools
+    Adding Layer      : Component Side
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\keepout\features
+    Adding Layer      : Multi-Layer
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\keepout\attrlist
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\mechanical1\features
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D32
+*************************************************************
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\mechanical1\attrlist
+*************************************************************
+Generating : Top Overlay
+      File : CAN_24bit_airspeed.GTO
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\mechanical2\features
+    Adding Layer      : Top Overlay
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\mechanical2\attrlist
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\mechanical3\features
+Used DCodes :
+    D30
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+*************************************************************
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\mechanical3\attrlist
+*************************************************************
+Generating : Top Paste
+      File : CAN_24bit_airspeed.GTP
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\mechanical4\features
+    Adding Layer      : Top Paste
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\mechanical4\attrlist
+    Adding Layer      : Component Side
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\mechanical5\features
+    Adding Layer      : Multi-Layer
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\mechanical5\attrlist
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\mechanical13\features
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D49
+    D50
+    D51
+    D52
+*************************************************************
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\mechanical13\attrlist
+*************************************************************
+Generating : Top Solder
+      File : CAN_24bit_airspeed.GTS
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\mechanical14\features
+    Adding Layer      : Top Solder
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\mechanical14\attrlist
+    Adding Layer      : Component Side
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\mechanical15\features
+    Adding Layer      : Multi-Layer
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\mechanical15\attrlist
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\mechanical16\features
+Used DCodes :
+    D12
+    D14
+    D15
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+*************************************************************
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\mechanical16\attrlist
+*************************************************************
+Generating : Bottom Solder
+      File : CAN_24bit_airspeed.GBS
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\mechanical34\features
+    Adding Layer      : Bottom Solder
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\mechanical34\attrlist
+    Adding Layer      : Solder Side
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\comp_+_top\features
+    Adding Layer      : Multi-Layer
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\comp_+_top\components
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\comp_+_bot\features
+Used DCodes :
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+*************************************************************
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\layers\comp_+_bot\components
+*************************************************************
+Generating : Bottom Paste
+      File : CAN_24bit_airspeed.GBP
 
-Generated File : W:\Git\ProfiCNC_Hardware\CAN_24bit_AIRSPEED\Project Outputs for CAN_24bit_airspeed\odb\steps\pcb\eda\data
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Solder Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D34
+    D35
+    D36
+    D37
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : CAN_24bit_airspeed.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D30
+    D39
+    D45
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+    D126
+    D127
+    D128
+    D129
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : CAN_24bit_airspeed.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 2
+      File : CAN_24bit_airspeed.GM2
+
+    Adding Layer      : Mechanical 2
+
+
+Used DCodes :
+    D130
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 3
+      File : CAN_24bit_airspeed.GM3
+
+    Adding Layer      : Mechanical 3
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 4
+      File : CAN_24bit_airspeed.GM4
+
+    Adding Layer      : Mechanical 4
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 5
+      File : CAN_24bit_airspeed.GM5
+
+    Adding Layer      : Mechanical 5
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : CAN_24bit_airspeed.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D41
+    D45
+    D131
+    D132
+    D133
+    D134
+    D135
+    D136
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : CAN_24bit_airspeed.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D41
+    D130
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 16
+      File : CAN_24bit_airspeed.GM16
+
+    Adding Layer      : Mechanical 16
+
+
+Used DCodes :
+    D43
+    D131
+    D132
+    D133
+    D134
+    D137
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : CAN_24bit_airspeed.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : CAN_24bit_airspeed.GD1
+
+    Adding Drill Pair : Component Side-Solder Side
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D29
+    D138
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : CAN_24bit_airspeed.GG1
+
+    Adding Drill Pair : Component Side-Solder Side
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D29
+*************************************************************
 

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=J2001-GND5
+Removed Pin From Net: NetName=GND Pin=J2001-GND6
+Removed Member From Class: ClassName=Wombat_REV_X1 Member=3DR Logo
+Added Component: Designator=*(ProfiCNC_medium)
+Change Class Name : Old Net Name=Wombat_REV_X1 New Net Name=Accessory_Breakout_X1
+Added Member To Class: ClassName=Accessory_Breakout_X1 Member=Component * ProfiCNC_LOGO

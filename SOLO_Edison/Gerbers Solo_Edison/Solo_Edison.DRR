@@ -1,0 +1,22 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Solo_Edison.PcbDoc   16/02/2016  8:26:34 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Solo_Edison.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.2mm (7.874mil)         Round          5                62.25 mm (2.45 Inch)
+T2        0.3mm (11.811mil)        Round          71               409.66 mm (16.13 Inch)
+T3        0.8mm (31.496mil)        Round          30               88.08 mm (3.47 Inch)
+T4        0.9mm (35.433mil)        Round          9                22.23 mm (0.88 Inch)
+T5        2.2mm (86.614mil)        Round          2                27.94 mm (1.10 Inch)
+T6        2.3048mm (90.74mil)      Round          2                63.00 mm (2.48 Inch)
+T7        2.5mm (98.425mil)        Round          2                35.25 mm (1.39 Inch)
+T8        2.5548mm (100.583mil)    Round          2                63.00 mm (2.48 Inch)
+T9        3mm (118.11mil)          Round          4                139.00 mm (5.47 Inch)
+---------------------------------------------------------------------------
+Totals                                            127              910.41 mm (35.84 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

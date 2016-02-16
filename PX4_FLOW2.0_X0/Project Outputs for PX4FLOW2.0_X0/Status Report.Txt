@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PX4FLOW2.0_X0.PrjPcb]
+   Generated File[PX4FLOW2.0_X0-RoundHoles.TXT]
+   Generated File[PX4FLOW2.0_X0-SlotHoles.TXT]
+   Generated File[PX4FLOW2.0_X0.LDP]
+   Generated File[PX4FLOW2.0_X0.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 8:53:47 PM On 16/02/2016

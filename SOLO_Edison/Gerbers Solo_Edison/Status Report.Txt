@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Solo_Edison.PrjPcb]
+   Generated File[Solo_Edison.TXT]
+   Generated File[Solo_Edison.LDP]
+   Generated File[Solo_Edison.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 8:26:35 PM On 16/02/2016
